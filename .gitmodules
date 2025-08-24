@@ -1,0 +1,6 @@
+[submodule "ansor-cache"]
+	path = ansor-cache
+	url = git@github.com:thaisacs/ansor-cache.git
+[submodule "ms-cache"]
+	path = ms-cache
+	url = git@github.com:thaisacs/ms-cache.git
